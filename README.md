@@ -2,14 +2,11 @@
 
 ![image](ScreenShot/ROGB760I.png)
 
-
-### To Be Test & Upload ...
-
 ### [简体中文](README.zh_CN.md)
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -19,15 +16,20 @@
 ### Hardware
 
 - Motherboard: ROG STRIX B760-I GAMING WiFi
-- Bios Version:
-- CPU: Intel i5-13400
-- RAM: 
-- SSD: 
+- Bios Version:1003（2023/04/20）
+- CPU: Intel i5-13600k
+- RAM: KINGBANK 16GB*2 DDR5 6800MHz
+- SSD: 1.WD SN770 512G MacOS
+- SSD: 2.WD SN770 512G Windows
 - iGPU: Intel UHD Graphic 730 (Only work in Windows)
-- GPU:
-- Audio: Realtek 
-- Ethernet Card: 
-- PSU: 
+- GPU: yeston Radeon RX6600
+- Audio:ROG SupremeFX 7.1-Channel High Definition Audio CODEC S1220A
+- Ethernet Card: Intel® 2.5Gb Ethernet
+- Ethernet Card: UGREEN USB LAN （RTL8156）
+- WiFi Card: BCM94360CS2
+- CPU Cooling: AXP 120 X67 With 
+- PSU: TT thermaltake Toughpower GF1 650W
+- Case: NZXT H1
 
 ### Notes
 
