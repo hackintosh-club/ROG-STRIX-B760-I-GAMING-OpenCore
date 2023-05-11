@@ -5,7 +5,7 @@
 		<key>#About</key>
 		<string>B站UP：乌龙蜜桃来一打</string>
 		<key>#Website</key>
-		<string>https://github.com/hackintosh-efi/ASUS-PRIME-Z690-P-D4-OpenCore</string>
+		<string>https://github.com/hackintosh-efi/ROG-STRIX-B760-I-GAMING-OpenCore</string>
         <key>ACPI</key>
         <dict>
             <key>Add</key>

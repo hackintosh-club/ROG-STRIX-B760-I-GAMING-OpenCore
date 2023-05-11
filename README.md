@@ -27,7 +27,7 @@
 - Ethernet Card: Intel® 2.5Gb Ethernet
 - Ethernet Card: UGREEN USB LAN （RTL8156）
 - WiFi Card: BCM94360CS2
-- CPU Cooling: AXP 120 X67 With 
+- CPU Cooling: AXP 120 X67 With PHANTEKS T30
 - PSU: TT thermaltake Toughpower GF1 650W
 - Case: NZXT H1
 
