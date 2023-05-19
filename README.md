@@ -41,8 +41,8 @@
 | ----- | --- |
 
 
-- Contact Us
+### Contact Us
 
-QQ Group: 23304408
+ - QQ Group: 23304408
 
 ![image](ScreenShot/QRCode.png)
