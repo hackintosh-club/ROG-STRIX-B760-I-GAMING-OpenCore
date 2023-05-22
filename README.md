@@ -45,7 +45,7 @@
 
  - Geekbench5 & Cinebench R20
  
-![image](ScreenShot/geekbench5.jpg)
+![image](ScreenShot/geekbenchR20.jpg)
 
 
 ### Contact Us
