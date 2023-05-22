@@ -43,13 +43,10 @@
 
 ### ScreenShot
 
- - Geekbench5
+ - Geekbench5 & Cinebench R20
  
 ![image](ScreenShot/geekbench5.jpg)
 
- - Cinebench R20
-
-![image](ScreenShot/cinebenchr20.PNG)
 
 ### Contact Us
 
