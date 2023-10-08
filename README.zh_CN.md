@@ -6,12 +6,13 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### 支持的系统版本
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x 
+- macOS Ventura  13.x
+- macOS Sonoma   14.x 
 
 ### 硬件
 
