@@ -36,16 +36,34 @@
 
  - 使用[OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/)修改SMBIOS，重新生成三码
 
-### Bios设置
+### Bios Setup
 
-| Name | Option |
-| ----- | --- |
+```
+Advanced
+  |-- UEFI Variables Protection
+     |-- password protection of Runtime Variables ：Disabled
+  |-- System Agent(SA)Configuration
+	   |-- VT-D ：Disabled
+	   |-- Control Iommu Pre-boot Behavior ：Disable IOMMU
+	|--PCI Subsystem Settings
+	   |-- Above 4G Decoding ：Enabled
+	   |-- Resize BAR Support ：Disabled
+	   |-- SR-IOV Support ：Disabled
+BOOT
+   |-- Secure Boot
+      |-- OS Type ：Other OS
+      |-- Secure Boot Mode ：Custom
+   |-- Boot Configuration
+      |-- Fast Boot ：Disabled             
+   |-- CSM (Compatibility Support Module)
+      |-- Launch CSM  ：Disabled
+```
 
 
 ### 系统截图
 
  - Geekbench5 & Cinebench R20
- 
+
 ![image](ScreenShot/geekbenchR20.jpg)
 
 
