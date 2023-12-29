@@ -219,7 +219,7 @@
                 <key>RebuildAppleMemoryMap</key>
                 <true/>
                 <key>ResizeAppleGpuBars</key>
-                <integer>0</integer>
+                <integer>-1</integer>
                 <key>SetupVirtualMap</key>
                 <true/>
                 <key>SignalAppleOS</key>
@@ -663,7 +663,7 @@
                 <key>ThirdPartyDrives</key>
                 <false/>
                 <key>XhciPortLimit</key>
-                <false/>
+                <true/>
             </dict>
             <key>Scheme</key>
             <dict>
@@ -814,8 +814,6 @@
                 <dict>
                     <key>revcpu</key>
                     <integer>1</integer>
-                    <key>revcpuname</key>
-                    <string>14 Core Intel i5</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
@@ -844,6 +842,7 @@
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <array>
                     <string>rtc-blacklist</string>
+                    <string>revcpu</string>
                 </array>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <array>
