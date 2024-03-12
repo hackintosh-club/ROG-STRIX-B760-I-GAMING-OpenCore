@@ -6,12 +6,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x
+- macOS Ventura    13.x
 - macOS Sonoma   14.x 
 
 ### Hardware
@@ -34,7 +34,8 @@
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
+ - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+ - If you want to use a CPU without  Efficient-Core, you must uncheck the option in the config.plist file Kernel--ProvideCurrentCpuinfo
 
 ### Bios Setup
 
@@ -45,7 +46,7 @@ Advanced
      |-- password protection of Runtime Variables ：Disabled
      
   |-- System Agent(SA)Configuration
-     |-- VT-D ：Disabled
+     |-- VT-D ：Enabled
      |-- Control Iommu Pre-boot Behavior ：Disable IOMMU
 	   
   |--PCI Subsystem Settings

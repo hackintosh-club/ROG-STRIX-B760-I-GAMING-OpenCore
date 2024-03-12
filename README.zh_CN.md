@@ -6,12 +6,12 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### 支持的系统版本
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x
+- macOS Ventura    13.x
 - macOS Sonoma   14.x 
 
 ### 硬件
@@ -34,7 +34,8 @@
 
 ### 注意事项
 
- - 使用[OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/)修改SMBIOS，重新生成三码
+ - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 如需使用没有小核心的CPU，必须取消勾选配置文件中Kernel--ProvideCurrentCpuinfo选项
 
 ### Bios Setup
 
@@ -45,7 +46,7 @@ dvanced
      |-- password protection of Runtime Variables ：Disabled
      
   |-- System Agent(SA)Configuration
-     |-- VT-D ：Disabled
+     |-- VT-D ：Enabled
      |-- Control Iommu Pre-boot Behavior ：Disable IOMMU
 	   
   |--PCI Subsystem Settings
