@@ -6,13 +6,14 @@
 
 ### OpenCore
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 支持的系统版本
 
 - macOS Monterey 12.x
 - macOS Ventura    13.x
 - macOS Sonoma   14.x 
+- macOS Sequoia   15.x 
 
 ### 硬件
 
@@ -34,7 +35,7 @@
 
 ### 注意事项
 
- - 安装成功后必须使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 或者 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
+ - 安装成功后必须使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成你自己的 SMBIOS
  - 如需使用没有小核心的CPU，必须取消勾选配置文件中Kernel--ProvideCurrentCpuinfo选项
 
 ### Bios Setup
