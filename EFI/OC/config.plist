@@ -353,7 +353,7 @@
                     <key>BundlePath</key>
                     <string>AppleIGC.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.0d1</string>
+                    <string>V1.5d1</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -827,6 +827,7 @@
                 <array>
                     <string>rtc-blacklist</string>
                     <string>revcpu</string>
+                    <string>revpatch</string>
                 </array>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <array>
