@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
